@@ -1,0 +1,1 @@
+INSERT INTO creditos  (name,create_at,cliente_id,producto_id) VALUES('Prueba',NOW(),'1','1');
